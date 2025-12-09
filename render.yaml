@@ -1,8 +1,0 @@
-services:
-  - type: web
-    name: laravel-app
-    runtime: docker
-    repo: https://github.com/hkai7706/laravel-project
-    plan: free
-    branch: master
-    dockerfilePath: ./Dockerfile
